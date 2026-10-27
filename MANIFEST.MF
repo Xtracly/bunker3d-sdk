@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+MIDlet-Name: Bunker 3D Engine
+MIDlet-Version: 0.1.0
+MIDlet-Vendor: DmytroDev
+MIDlet-1: Bunker3D, , bunker3d.BunkerMIDlet
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+Nokia-MIDlet-Original-Display-Size: 240,320
+Nokia-MIDlet-Target-Display-Size: 240,320
